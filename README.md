@@ -14,6 +14,6 @@ The results formalized in this paper are a prerequisite to formalize Local Class
 ## Installation instructions
 The formalization has been developed over Lean 3 and its matemathical library mathlib. For detailed instructions to install Lean, mathlib, and supporting tools, visit the [Lean Community website](https://leanprover-community.github.io/get_started.html).
 
-After installation, run the command `leanproject get mariainesdff/norm_extensions_journal_submission/` to obtain a copy of the project's source files and dependencies. To open the project in VS Code, either run `path/to/norm_extensions_journal_submission` on the command line, or use the "Open Folder" menu option to open the project's root directory. To compile the project locally, use the command `lean --make src`.
+After installation, run the command `leanproject get mariainesdff/norm_extensions_journal_submission` to obtain a copy of the project's source files and dependencies. To open the project in VS Code, either run `path/to/norm_extensions_journal_submission` on the command line, or use the "Open Folder" menu option to open the project's root directory. To compile the project locally, use the command `lean --make src`.
 
 Copyright (C) 2023, María Inés de Frutos-Fernández
